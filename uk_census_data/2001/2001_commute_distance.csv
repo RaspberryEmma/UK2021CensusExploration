@@ -1,0 +1,29 @@
+
+"UV035 - Distance travelled to work"
+"ONS Crown Copyright Reserved [from Nomis on 9 January 2023]"
+"Population :","All people aged 16 to 74 who were working in the week before the Census"
+"Units      :","Persons"
+"Date       :","2001"
+
+"Distance travelled to work","England","England and Wales","Wales"
+
+"All categories: Distance travelled to work",22441497,23627753,1186256
+"Works mainly at or from home",2055224,2170547,115323
+"Less than 2km",4484082,4731196,247114
+"2km to less than 5km",4510259,4725097,214838
+"5km to less than 10km",4094614,4305118,210504
+"10km to less than 20km",3412081,3601608,189527
+"20km to less than 30km",1197605,1269014,71409
+"30km to less than 40km",527840,556170,28330
+"40km to less than 60km",487683,508331,20648
+"60km and over",607571,643859,36288
+"No fixed place of work",991537,1039735,48198
+"Works outside the UK",59346,62550,3204
+"Working at offshore installation",13655,14528,873
+
+
+
+"","Cells in this dataset have been randomly adjusted to avoid the release"
+"","of confidential data."
+"",""
+
